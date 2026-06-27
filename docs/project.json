@@ -1,0 +1,8 @@
+{
+  "project_type": "web",
+  "sub_project_type": "",
+  "name": "临床病人管理助手",
+  "app_slug": "clinical-care-assistant",
+  "version_description": "修复空状态工具页不显示",
+  "preview_type": "mobile"
+}
