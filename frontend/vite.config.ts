@@ -33,9 +33,4 @@ export default defineConfig({
       },
     }),
   ],
-  build: {
-    rolldownOptions: {
-      external: ['dexie'],
-    },
-  },
 })
